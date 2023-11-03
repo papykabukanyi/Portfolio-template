@@ -1,5 +1,5 @@
-# Python Starter
+# This a Business Portfolio
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
+this was created using Flask
 
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.codesandbox/Dockerfile).
+- If you want to copy please feel free.
